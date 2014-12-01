@@ -1,6 +1,8 @@
+data/elasticsearch
 solr/data/*
 logs/*.log
 .DS_Store
 tmp
+elasticsearch-webapp
 solr-webapp
 solr/*-core
