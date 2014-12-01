@@ -1,0 +1,15 @@
+[2014-12-01 11:29:54,638][INFO ][node                     ] [Aegis] version[1.4.1], pid[95515], build[89d3241/2014-11-26T15:49:29Z]
+[2014-12-01 11:29:54,638][INFO ][node                     ] [Aegis] initializing ...
+[2014-12-01 11:29:54,645][INFO ][plugins                  ] [Aegis] loaded [], sites []
+[2014-12-01 11:30:00,008][INFO ][node                     ] [Aegis] initialized
+[2014-12-01 11:30:00,010][INFO ][node                     ] [Aegis] starting ...
+[2014-12-01 11:30:00,363][INFO ][transport                ] [Aegis] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.1.149:9300]}
+[2014-12-01 11:30:00,430][INFO ][discovery                ] [Aegis] elasticsearch/3HllmStwQbiJp4RKRQ4bjQ
+[2014-12-01 11:30:04,416][INFO ][cluster.service          ] [Aegis] new_master [Aegis][3HllmStwQbiJp4RKRQ4bjQ][mistys-mbp][inet[/192.168.1.149:9300]], reason: zen-disco-join (elected_as_master)
+[2014-12-01 11:30:04,480][INFO ][http                     ] [Aegis] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.1.149:9200]}
+[2014-12-01 11:30:04,481][INFO ][node                     ] [Aegis] started
+[2014-12-01 11:30:04,555][INFO ][gateway                  ] [Aegis] recovered [0] indices into cluster_state
+[2014-12-01 11:30:23,726][INFO ][node                     ] [Aegis] stopping ...
+[2014-12-01 11:30:23,889][INFO ][node                     ] [Aegis] stopped
+[2014-12-01 11:30:23,890][INFO ][node                     ] [Aegis] closing ...
+[2014-12-01 11:30:23,905][INFO ][node                     ] [Aegis] closed
